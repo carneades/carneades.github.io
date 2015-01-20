@@ -3,7 +3,7 @@
     "layoutdir": "layouts",
     "publishdir": "..",
     "builddrafts": true,
-    "baseurl": "http://carneades.github.io",
+    "baseurl": "https://carneades.github.io",
     "canonifyurls": true,
     "permalinks": {
         "post": ":year/:month/:day/:title/",
