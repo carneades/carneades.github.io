@@ -8,9 +8,8 @@ The Carneades argumentation system provides software tools for:
 
 - (re)constructing arguments using a rulebase of argumentation schemes
 - visualizing arguments in diagrams (argument maps)
-- critically evaluating arguments, using a formal model of structured
-  argument based on argumentation schemes and Dung abstract
-  argumentation frameworks
+- critically evaluating arguments, using argumentation schemes and a
+  formal model of structured argument.
 - serializing and interchanging arguments using our own
   Carneades Argument Format (CAF) as well as the Argument Interchange Format
   (AIF)
