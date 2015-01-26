@@ -4,15 +4,22 @@
   "weight": 1
 }
 
-The Carneades argumentation system provides software tools for: 
+The Carneades argumentation system is series of open source research
+prototypes, freely available for downloading at <http://carneades.github.com>.
+
+The latest release, Carneades WebApp 0.7, provides web-based tools for:
 
 - (re)constructing arguments using a rulebase of argumentation schemes
 - visualizing arguments in diagrams (argument maps)
 - critically evaluating arguments, using argumentation schemes and a
-  formal model of structured argument.
+  formal model of structured argument with support for varible proof
+  standards.
+
+<!--
 - serializing and interchanging arguments using our own
   Carneades Argument Format (CAF) as well as the Argument Interchange Format
   (AIF)
+-->
 
 For licensing information, see the particular release (below) of
 interest.
