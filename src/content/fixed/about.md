@@ -7,7 +7,7 @@
 The Carneades argumentation system is series of open source research
 prototypes, freely available for downloading at <http://carneades.github.com>.
 
-The latest release, Carneades WebApp 0.7, provides web-based tools for:
+The latest release provides web-based tools for:
 
 - (re)constructing arguments using a rulebase of argumentation schemes
 - visualizing arguments in diagrams (argument maps)
