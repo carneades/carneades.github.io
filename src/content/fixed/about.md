@@ -29,21 +29,21 @@ interest.
 The following versions of Carneades are available, in reverse
 chronological order:
 
-- [Carneades 2015](https://github.com/carneades/carneades) (January,
+- [Carneades-3](https://github.com/carneades/carneades) (January,
   2015) A multi-user web application version of Carneades, with a
   three-tier architecture, developed in the European
   [IMPACT](http://www.policy-impact.eu/) (2010-13) and
   [MARKOS](http://www.markosproject.eu/) projects
   (2012-15). Implemented in Clojure and CoffeeScript. License: MPL-2.0.
 
-- [Carneades 2011](https://github.com/carneades/carneades-2011)
+- [Carneades-2](https://github.com/carneades/carneades-2011)
   (October, 2011) A single-user desktop version of Carneades,
   implemented in Clojure for the Java Virtual Machine (JVM), and with
   a graphical user interface.  Developed in a project with Doug Walton
   funded by the Canadian Social and Humanities Research
   Council. License: EUPL-1.1.
 
-- [Carneades 2008](https://github.com/carneades/carneades-2008) (May,
+- [Carneades-1](https://github.com/carneades/carneades-2008) (May,
   2011) The first version of the Carneades engine, implemented in
   Scheme and developed in the European ESTRELLA project
   (IST-2004-027655) from 2006 to 2008. Also includes an experimental
