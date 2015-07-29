@@ -10,7 +10,7 @@ git add -A .
 
 # Change to the toplevel directory of the working Github tree
 
-cd ../..
+cd ..
 
 # Commit changes.
 msg="rebuilding the Carneades website `date`"
