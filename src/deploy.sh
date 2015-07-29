@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -e "Deploying updates to Github..."
+echo "Deploying updates to Github..."
 
 # Build the project. 
 hugo
