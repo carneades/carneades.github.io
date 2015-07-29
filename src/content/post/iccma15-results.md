@@ -16,7 +16,7 @@ And the winners are:
 Congratulations!
 
 Our own entry, [Carneades
-4.0](https://github.com/carneades/carneades-4), place 2nd in all four
+4.0](http://argumentationcompetition.org/2015/pdf/paper_5.pdf), place 2nd in all four
 of the grounded semantics "tracks", and 7th overall, in a field of [18
 solvers](http://argumentationcompetition.org/2015/solvers.html).
 
