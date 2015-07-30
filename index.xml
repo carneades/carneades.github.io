@@ -31,7 +31,7 @@ Argument (ICCMA) are now available.&lt;/p&gt;
 &lt;p&gt;Congratulations!&lt;/p&gt;
 
 &lt;p&gt;Our own entry, &lt;a href=&#34;http://argumentationcompetition.org/2015/pdf/paper_5.pdf&#34;&gt;Carneades
-4.0&lt;/a&gt;, place 2nd in all four
+4.0&lt;/a&gt;, placed 2nd in all four
 of the grounded semantics &amp;ldquo;tracks&amp;rdquo;, and 7th overall, in a field of &lt;a href=&#34;http://argumentationcompetition.org/2015/solvers.html&#34;&gt;18
 solvers&lt;/a&gt;.&lt;/p&gt;
 
@@ -104,7 +104,7 @@ GraphML and plain text. (DOT export is planned and will be available
 for editing and viewing the GraphML files.&lt;/p&gt;
 
 &lt;p&gt;You can use the
-&lt;a href=&#34;http://carneades.fokus.fraunhofer.de&#34;&gt;Carneades 4.1 online service&lt;/a&gt;
+&lt;a href=&#34;http://carneades.fokus.fraunhofer.de&#34;&gt;Carneades 4.1 Server&lt;/a&gt;
 without having to build or install the system yourself.&lt;/p&gt;
 
 &lt;p&gt;The source code is available in the

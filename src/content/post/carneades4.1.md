@@ -48,7 +48,7 @@ We recommend using the free
 for editing and viewing the GraphML files.
 
 You can use the
-[Carneades 4.1 online service](http://carneades.fokus.fraunhofer.de)
+[Carneades 4.1 Server](http://carneades.fokus.fraunhofer.de)
 without having to build or install the system yourself.
 
 The source code is available in the
