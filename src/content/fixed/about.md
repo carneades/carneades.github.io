@@ -33,8 +33,10 @@ chronological order:
   Information Systems). Carneades 4 is implemented in
   [Go](https://golang.org/), a mainstream statically-typed, procedural
   programming language with a C-like syntax, garbage collection, good
-  builtin support for concurrency and a large standard
-  library. License: MPL-2.0.
+  builtin support for concurrency and a large standard library. An
+  inference engine, implemented using [Constraint Handling
+  Rules](https://dtai.cs.kuleuven.be/CHR/) constructs arguments by
+  instantiating argumentation schemes.  License: MPL-2.0.
 
 - [Carneades-3](https://github.com/carneades/carneades-3) (January,
   2015) A multi-user web application version of Carneades, with a
