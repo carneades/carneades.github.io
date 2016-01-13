@@ -16,19 +16,20 @@
           <pubDate>Tue, 12 Jan 2016 01:16:06 &#43;0200</pubDate>
           <author>Tom Gordon</author>
           <guid>https://carneades.github.io/2016/01/12/Carneades-4.2/</guid>
-          <description>&lt;p&gt;Version of 4.2 of Carneades was released today.  New in 4.2 are:&lt;/p&gt;
+          <description>&lt;p&gt;Version 4.2 of Carneades was released today.  New in 4.2 are:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;User-definable argument evaluation functions, for deriving relative
 argument weights from properties of the arguments (4.1 included a few
-builtin argument evaluation functions)&lt;/li&gt;
+builtin argument evaluation functions.)&lt;/li&gt;
 &lt;li&gt;A language, based on YAML, for representing argumentation schemes.&lt;/li&gt;
-&lt;li&gt;Automatic argument construction via an inference engine implemented using
+&lt;li&gt;Automatic argument construction from argumentation schemes and assumptions
+via an inference engine implemented using
 &lt;a href=&#34;https://dtai.cs.kuleuven.be/CHR/&#34;&gt;Constraint Handling Rules&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;As before, you can try Carneades 4.2 online using the
-&lt;a href=&#34;http://carneades.fokus.fraunhofer.de&#34;&gt;Carneades Server&lt;/a&gt; without
+&lt;a href=&#34;http://carneades.fokus.fraunhofer.de&#34;&gt;Carneades server&lt;/a&gt; without
 having to build or install the system yourself.&lt;/p&gt;
 
 &lt;p&gt;The source code is available in the &lt;a href=&#34;https://github.com/carneades/carneades-4&#34;&gt;Carneades-4
