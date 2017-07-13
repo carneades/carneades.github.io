@@ -1,21 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> </title>
-    <link>https://carneades.github.io/index.xml/</link>
+    <title>Carneades </title>
+    <link>https://carneades.github.io/</link>
     <language>en-us</language>
     <author>Tom Gordon</author>
-    <rights>(C) 2016</rights>
-    <updated>2016-01-12 01:16:06 &#43;0200 &#43;0200</updated>
+    <rights>(C) 2017</rights>
+    <updated>2017-07-13 10:42:12 &#43;0200 CEST</updated>
 
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <item>
+          <title>Carneades 4.3</title>
+          <link>https://carneades.github.io/2017/07/13/carneades-4.3/</link>
+          <pubDate>Thu, 13 Jul 2017 10:42:12 CEST</pubDate>
+          <author>Tom Gordon</author>
+          <guid>https://carneades.github.io/2017/07/13/carneades-4.3/</guid>
+          <description>&lt;p&gt;Version 4.3 of Carneades was released today.  New in 4.3 are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Argument validation, by matching arguments to schemes&lt;/li&gt;
+&lt;li&gt;Argumentation scheme validation, checking for syntatic and semantic
+errors in a theory (knowledge-base)&lt;/li&gt;
+&lt;li&gt;Native implementation of a
+&lt;a href=&#34;https://dtai.cs.kuleuven.be/CHR/&#34;&gt;Constraint Handling Rules&lt;/a&gt; (CHR)
+inference engine, in Go, for constructing arguments. Removes the
+dependency on Prolog.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The Go implementation of CHR was designed and implemented by Horst
+Friedrich. It has a separate GitHub project,
+&lt;a href=&#34;https://github.com/hfried/GoCHR&#34;&gt;GoCHR&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As before, you can try Carneades 4.3 online using the
+&lt;a href=&#34;http://carneades.fokus.fraunhofer.de/carneades&#34;&gt;Carneades server&lt;/a&gt; without
+having to build or install the system yourself.&lt;/p&gt;
+
+&lt;p&gt;The source code is available in the &lt;a href=&#34;https://github.com/carneades/carneades-4&#34;&gt;Carneades-4
+Github&lt;/a&gt; project. The code is
+open source, using the &lt;a href=&#34;https://www.mozilla.org/MPL/2.0/&#34;&gt;MPL-2.0&lt;/a&gt;
+license.&lt;/p&gt;
+</description>
+        </item>
+      
     
       
         <item>
           <title>Carneades 4.2</title>
-          <link>https://carneades.github.io/2016/01/12/Carneades-4.2/</link>
+          <link>https://carneades.github.io/2016/01/12/carneades-4.2/</link>
           <pubDate>Tue, 12 Jan 2016 01:16:06 &#43;0200</pubDate>
           <author>Tom Gordon</author>
-          <guid>https://carneades.github.io/2016/01/12/Carneades-4.2/</guid>
+          <guid>https://carneades.github.io/2016/01/12/carneades-4.2/</guid>
           <description>&lt;p&gt;Version 4.2 of Carneades was released today.  New in 4.2 are:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -43,10 +88,10 @@ license.&lt;/p&gt;
       
         <item>
           <title>ICCMA 2015 Results</title>
-          <link>https://carneades.github.io/2015/07/29/ICCMA-2015-Results/</link>
+          <link>https://carneades.github.io/2015/07/29/iccma-2015-results/</link>
           <pubDate>Wed, 29 Jul 2015 13:46:23 CEST</pubDate>
           <author>Tom Gordon</author>
-          <guid>https://carneades.github.io/2015/07/29/ICCMA-2015-Results/</guid>
+          <guid>https://carneades.github.io/2015/07/29/iccma-2015-results/</guid>
           <description>&lt;p&gt;The &lt;a href=&#34;http://argumentationcompetition.org/2015/results.html&#34;&gt;results&lt;/a&gt;
 of the First International Competition on Computational Models of
 Argument (ICCMA) are now available.&lt;/p&gt;
@@ -83,10 +128,10 @@ server&lt;/a&gt;.&lt;/p&gt;
       
         <item>
           <title>Announcing Carneades 4</title>
-          <link>https://carneades.github.io/2015/07/29/Announcing-Carneades-4/</link>
+          <link>https://carneades.github.io/2015/07/29/announcing-carneades-4/</link>
           <pubDate>Wed, 29 Jul 2015 12:16:09 CEST</pubDate>
           <author>Tom Gordon</author>
-          <guid>https://carneades.github.io/2015/07/29/Announcing-Carneades-4/</guid>
+          <guid>https://carneades.github.io/2015/07/29/announcing-carneades-4/</guid>
           <description>&lt;p&gt;We have begun work on version 4 of Carneades. With this version we are
 pursuing the following goals:&lt;/p&gt;
 
@@ -149,10 +194,10 @@ project. The code is open source, using the
       
         <item>
           <title>Carneades 3.7</title>
-          <link>https://carneades.github.io/2015/02/24/Carneades-3.7/</link>
+          <link>https://carneades.github.io/2015/02/24/carneades-3.7/</link>
           <pubDate>Tue, 24 Feb 2015 15:22:50 CET</pubDate>
           <author>Tom Gordon</author>
-          <guid>https://carneades.github.io/2015/02/24/Carneades-3.7/</guid>
+          <guid>https://carneades.github.io/2015/02/24/carneades-3.7/</guid>
           <description>&lt;p&gt;Carneades 3.7 is now available for downloading. This version of
 Carneades is a web application, with a three-tiered architecture. The
 web client of this version has been completing rewritten to make use
@@ -177,29 +222,19 @@ been thoroughly tested and is missing some planned features.&lt;/p&gt;
       
         <item>
           <title>New Carneades Website</title>
-          <link>https://carneades.github.io/2014/09/03/New-Carneades-Website/</link>
+          <link>https://carneades.github.io/2014/09/03/new-carneades-website/</link>
           <pubDate>Wed, 03 Sep 2014 17:56:13 CEST</pubDate>
           <author>Tom Gordon</author>
-          <guid>https://carneades.github.io/2014/09/03/New-Carneades-Website/</guid>
+          <guid>https://carneades.github.io/2014/09/03/new-carneades-website/</guid>
           <description>&lt;p&gt;Welcome to the new website for the
-&lt;a href=&#34;/Carneades&#34;&gt;Carneades argumentation system&lt;/a&gt;.  The website is now
+&lt;a href=&#34;https://carneades.github.io/Carneades&#34;&gt;Carneades argumentation system&lt;/a&gt;.  The website is now
 generated using the &lt;a href=&#34;http://hugo.spf13.com/&#34;&gt;Hugo Website Engine&lt;/a&gt; and
 hosted on GitHub.  Hugo provides a nice, simple way to maintain a blog. We
 will use this feature to make announcements.  The
 blog is also available in the Atom syndication format
-&lt;a href=&#34;/post/index.xml&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://carneades.github.io/post/index.xml&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         </item>
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
       
     
 
