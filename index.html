@@ -2,7 +2,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
   <head>
-	<meta name="generator" content="Hugo 0.25.1" />
   <link href="http://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
@@ -45,24 +44,6 @@
     
     
       
-        <a class="sidebar-nav-item " href="https://carneades.github.io/carneades/">Carneades</a>
-      
-    
-      
-        <a class="sidebar-nav-item " href="https://carneades.github.io/team/">Team</a>
-      
-    
-      
-        <a class="sidebar-nav-item " href="https://carneades.github.io/publications/">Publications</a>
-      
-    
-      
-        <a class="sidebar-nav-item " href="https://carneades.github.io/contact/">Contact</a>
-      
-    
-      
-        <a class="sidebar-nav-item " href="https://carneades.github.io/acknowledgements/">Acknowledgements</a>
-      
     
       
     
@@ -75,17 +56,23 @@
       
     
       
-    
+        <a class="sidebar-nav-item " href="https://carneades.github.io/Carneades/">Carneades</a>
       
     
       
-    
+        <a class="sidebar-nav-item " href="https://carneades.github.io/Team/">Team</a>
       
     
       
-    
+        <a class="sidebar-nav-item " href="https://carneades.github.io/Publications/">Publications</a>
       
     
+      
+        <a class="sidebar-nav-item " href="https://carneades.github.io/Contact/">Contact</a>
+      
+    
+      
+        <a class="sidebar-nav-item " href="https://carneades.github.io/Acknowledgements/">Acknowledgements</a>
       
     
 
@@ -96,7 +83,7 @@
   <div class="sidebar-item">
     <p><a href="https://carneades.github.io/post/index.xml"><img src="https://carneades.github.io/assets/feed-icon-14x14.png" alt="news feed"/></a></p>
     <p>Design by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.</p>
-    <p>&copy; 2017. All rights reserved.</p>
+    <p>&copy; 2016. All rights reserved.</p>
   </div>
 </div>
 
@@ -120,11 +107,154 @@
 <div class="posts">
   
     
-  
+      <div class="post">
+        <h1 class="post-title"><a href="https://carneades.github.io/2016/01/12/Carneades-4.2/">Carneades 4.2</a></h1>
+        <span class="post-date">12 Jan 2016</span>
+        <p>Version 4.2 of Carneades was released today.  New in 4.2 are:</p>
+
+<ul>
+<li>User-definable argument evaluation functions, for deriving relative
+argument weights from properties of the arguments (4.1 included a few
+builtin argument evaluation functions.)</li>
+<li>A language, based on YAML, for representing argumentation schemes.</li>
+<li>Automatic argument construction from argumentation schemes and assumptions
+via an inference engine implemented using
+<a href="https://dtai.cs.kuleuven.be/CHR/">Constraint Handling Rules</a>.</li>
+</ul>
+
+<p>As before, you can try Carneades 4.2 online using the
+<a href="http://carneades.fokus.fraunhofer.de/carneades">Carneades server</a> without
+having to build or install the system yourself.</p>
+
+<p>The source code is available in the <a href="https://github.com/carneades/carneades-4">Carneades-4
+Github</a> project. The code is
+open source, using the <a href="https://www.mozilla.org/MPL/2.0/">MPL-2.0</a>
+license.</p>
+
+      </div>
     
   
     
+      <div class="post">
+        <h1 class="post-title"><a href="https://carneades.github.io/2015/07/29/ICCMA-2015-Results/">ICCMA 2015 Results</a></h1>
+        <span class="post-date">29 Jul 2015</span>
+        <p>The <a href="http://argumentationcompetition.org/2015/results.html">results</a>
+of the First International Competition on Computational Models of
+Argument (ICCMA) are now available.</p>
+
+<p>And the winners are:</p>
+
+<ol>
+<li><a href="http://argumentationcompetition.org/2015/pdf/paper_8.pdf">CoQuiAAS</a></li>
+<li><a href="http://argumentationcompetition.org/2015/pdf/paper_10.pdf">ArgSemSAT</a></li>
+<li><a href="http://argumentationcompetition.org/2015/pdf/paper_4.pdf">LabSATSolver</a></li>
+</ol>
+
+<p>Congratulations!</p>
+
+<p>Our own entry, <a href="http://argumentationcompetition.org/2015/pdf/paper_5.pdf">Carneades
+4.0</a>, placed 2nd in all four
+of the grounded semantics &ldquo;tracks&rdquo;, and 7th overall, in a field of <a href="http://argumentationcompetition.org/2015/solvers.html">18
+solvers</a>.</p>
+
+<p>As
+<a href="http://argumentationcompetition.org/2015/pdf/paper_5.pdf">expected</a>,
+in the tracks for the intractable tasks (no pun indented), we didn&rsquo;t
+stand a chance against the systems using SAT solvers. The
+argumentation frameworks used were too large for our straightforward
+generate and test algorithm.</p>
+
+<p>You can try out the Carneades solver for Dung abstract argumentation
+frameworks online if you would like, using the <a href="http://carneades.fokus.fraunhofer.de">Carneades
+server</a>.</p>
+
+      </div>
+    
   
+    
+      <div class="post">
+        <h1 class="post-title"><a href="https://carneades.github.io/2015/07/29/Announcing-Carneades-4/">Announcing Carneades 4</a></h1>
+        <span class="post-date">29 Jul 2015</span>
+        <p>We have begun work on version 4 of Carneades. With this version we are
+pursuing the following goals:</p>
+
+<ul>
+<li><p>Developing a new version of the Carneades Argument Evaluation
+Structures (CAES) formal model of structured argumentation, with
+better support for cyclic argument graphs, cumulative arguments,
+practical reasoning, case-based reasoning, and multi-criteria
+decision analysis.  This new model both generalizes and simplifies
+the previous CAES model. It also improves its compatibility with
+other models of structured argument, such as the Argument
+Interchange Format (AIF), ASPIC+ and IBIS (Issue-Based Information
+Systems).</p></li>
+
+<li><p>Refocusing our efforts on formalisms, data structures and algorithms
+for argumentation tasks (server-side), away from graphical user
+interfaces (client-side).</p></li>
+
+<li><p>Making it easier for other developers to contribute to the project,
+by using more mainstream tools and languages.</p></li>
+
+<li><p>Reducing the memory requirements of the system.</p></li>
+
+<li><p>Making it easier to build, install and deploy the system.</p></li>
+</ul>
+
+<p>Today we are pleased to announce the first release of this new
+version, Carneades 4.1. This release includes:</p>
+
+<ul>
+<li><p>An evaluator for structured arguments, based on the new version of
+the Carneades Argument Evaluation Structures (CAES) formal model of
+structured argument. Argument graphs can be represented in AGXML,
+AIF, LKIF, CAF and YAML and exported to DOT, GraphML and YAML.</p></li>
+
+<li><p>An implementation of a solver for Dung abstract argumentation
+frameworks, using grounded, complete, preferred and stable
+semantics. Argumentation Frameworks can be represented using the
+Trivial Graph Format. The computed extensions can be exported to
+GraphML and plain text. (DOT export is planned and will be available
+&ldquo;soon&rdquo;.)</p></li>
+</ul>
+
+<p>We recommend using the free
+<a href="https://www.yworks.com/en/products/yfiles/yed/">yEd</a> GraphML program
+for editing and viewing the GraphML files.</p>
+
+<p>You can use the
+<a href="http://carneades.fokus.fraunhofer.de">Carneades 4.1 Server</a>
+without having to build or install the system yourself.</p>
+
+<p>The source code is available in the
+<a href="https://github.com/carneades/carneades-4">Carneades-4 Github</a>
+project. The code is open source, using the
+<a href="https://www.mozilla.org/MPL/2.0/">MPL-2.0</a> license.</p>
+
+      </div>
+    
+  
+    
+      <div class="post">
+        <h1 class="post-title"><a href="https://carneades.github.io/2015/02/24/Carneades-3.7/">Carneades 3.7</a></h1>
+        <span class="post-date">24 Feb 2015</span>
+        <p>Carneades 3.7 is now available for downloading. This version of
+Carneades is a web application, with a three-tiered architecture. The
+web client of this version has been completing rewritten to make use
+of modern JavaScript libraries for interactive web applications. The
+user interface is designed to be usable on all devices, including
+smart phones and tablets, as well as desktop computers.</p>
+
+<p>See the
+<a href="https://carneades.github.io/manuals/Carneades3.7/carneades-3.7-manual.pdf">Carneades 3.7 User Manual</a>
+for futher information about downloading, installing and using the
+system.</p>
+
+<p>Caveat: Carneades is a research prototype, not production-quality
+software. The 3.7 version of Carneades is work in progress, has not
+been thoroughly tested and is missing some planned features.</p>
+
+      </div>
     
   
     

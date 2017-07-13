@@ -1,5 +1,4 @@
 +++
-date = "2017-07-13T10:42:12+02:00" 
 draft = false
 title = "Carneades 4.3"
 +++
