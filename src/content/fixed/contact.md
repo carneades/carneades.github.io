@@ -4,6 +4,6 @@
   "weight": 4
 }
 
-Prof. Dr. Thomas F. Gordon
+Prof. Dr. Thomas F. Gordon    
 web: <http://www.tfgordon.de>
 
