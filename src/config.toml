@@ -1,4 +1,5 @@
-baseurl = "https://carneades.github.io/"
+baseurl = "https://carneades
+.github.io/"
 title = "Carneades Argumentation System"
 author = "Thomas F. Gordon"
 Server = "http://carneades.fokus.fraunhofer.de/carneades"
@@ -54,19 +55,19 @@ paginate = 10
     url = "/acknowledgements/"
   [[menu.main]]
     name = "Publications"
-    pre = "<i class='fa fa-list fa-fw'></i>"
+    pre = "<i class='fa fa-file fa-fw'></i>"
     weight = 4
     identifier = "publications"
     url = "/publications/"
   [[menu.main]]
     name = "Team"
-    pre = "<i class='fa fa-list fa-fw'></i>"
+    pre = "<i class='fa fa-file fa-fw'></i>"
     weight = 5
     identifier = "team"
     url = "/team/"
   [[menu.main]]
     name = "License"
-    pre = "<i class='fa fa-list fa-fw'></i>"
+    pre = "<i class='fa fa-file fa-fw'></i>"
     weight = 6
     identifier = "license"
     url = "/license/"
