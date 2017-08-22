@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>https://carneades.github.io/2017/07/12/carneades-4.3/</loc>
+    <lastmod>2017-07-12T01:16:06+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://carneades.github.io/2016/01/12/carneades-4.2/</loc>
     <lastmod>2016-01-12T01:16:06+02:00</lastmod>
   </url>
@@ -54,12 +59,8 @@
   
   <url>
     <loc>https://carneades.github.io/</loc>
-    <lastmod>2016-01-12T01:16:06+02:00</lastmod>
+    <lastmod>2017-07-12T01:16:06+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://carneades.github.io/1/01/01/carneades-4.3/</loc>
   </url>
   
   <url>
@@ -75,7 +76,7 @@
   
   <url>
     <loc>https://carneades.github.io/post/</loc>
-    <lastmod>2016-01-12T01:16:06+02:00</lastmod>
+    <lastmod>2017-07-12T01:16:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   

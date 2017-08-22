@@ -7,7 +7,7 @@
   <meta name="description" content="">
   <meta name="generator" content="Hugo 0.26" />
 
-  <title>Carneades 4.2 &middot; Carneades</title>
+  <title>Carneades 4.3 &middot; Carneades</title>
 
   
   
@@ -164,7 +164,7 @@
 
 
 <div class="header">
-  <h1>Carneades 4.2</h1>
+  <h1>Carneades 4.3</h1>
   <h2></h2>
 </div>
 <div class="content">
@@ -173,7 +173,7 @@
 
   <div>
     <i class="fa fa-calendar fa-fw"></i>
-    <time>12 Jan 2016, 01:16</time>
+    <time>12 Jul 2017, 01:16</time>
   </div>
 
   
@@ -184,19 +184,23 @@
 
 </div>
 
-  <p>Version 4.2 of Carneades was released today.  New in 4.2 are:</p>
+  <p>Version 4.3 of Carneades was released today.  New in 4.3 are:</p>
 
 <ul>
-<li>User-definable argument evaluation functions, for deriving relative
-argument weights from properties of the arguments (4.1 included a few
-builtin argument evaluation functions.)</li>
-<li>A language, based on YAML, for representing argumentation schemes.</li>
-<li>Automatic argument construction from argumentation schemes and assumptions
-via an inference engine implemented using
-<a href="https://dtai.cs.kuleuven.be/CHR/">Constraint Handling Rules</a>.</li>
+<li>Argument validation, by matching arguments to schemes</li>
+<li>Argumentation scheme validation, checking for syntatic and semantic
+errors in a theory (knowledge-base)</li>
+<li>Native implementation of a
+<a href="https://dtai.cs.kuleuven.be/CHR/">Constraint Handling Rules</a> (CHR)
+inference engine, in Go, for constructing arguments. Removes the
+dependency on Prolog.</li>
 </ul>
 
-<p>As before, you can try Carneades 4.2 online using the
+<p>The Go implementation of CHR was designed and implemented by Horst
+Friedrich. It has a separate GitHub project,
+<a href="https://github.com/hfried/GoCHR">GoCHR</a>.</p>
+
+<p>As before, you can try Carneades 4.3 online using the
 <a href="http://carneades.fokus.fraunhofer.de/carneades">Carneades server</a> without
 having to build or install the system yourself.</p>
 
@@ -210,13 +214,13 @@ license.</p>
 <div class="prev-next-post pure-g">
   <div class="pure-u-1-24" style="text-align: left;">
     
-    <a href="https://carneades.github.io/2015/07/29/iccma-2015-results/"><i class="fa fa-chevron-left"></i></a>
+    <a href="https://carneades.github.io/2016/01/12/carneades-4.2/"><i class="fa fa-chevron-left"></i></a>
     
   </div>
   <div class="pure-u-10-24">
     
     <nav class="prev">
-      <a href="https://carneades.github.io/2015/07/29/iccma-2015-results/">ICCMA 2015 Results</a>
+      <a href="https://carneades.github.io/2016/01/12/carneades-4.2/">Carneades 4.2</a>
     </nav>
     
   </div>
@@ -225,14 +229,8 @@ license.</p>
   </div>
   <div class="pure-u-10-24">
     
-    <nav class="next">
-      <a href="https://carneades.github.io/2017/07/12/carneades-4.3/">Carneades 4.3</a>
-    </nav>
-    
   </div>
   <div class="pure-u-1-24" style="text-align: right;">
-    
-    <a href="https://carneades.github.io/2017/07/12/carneades-4.3/"><i class="fa fa-chevron-right"></i></a>
     
   </div>
 </div>

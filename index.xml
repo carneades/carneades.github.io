@@ -5,7 +5,7 @@
     <link>https://carneades.github.io/</link>
     <description>Recent content on Carneades</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 12 Jan 2016 01:16:06 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2017 01:16:06 +0200</lastBuildDate>
     
 	<atom:link href="https://carneades.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -68,6 +68,16 @@ Development of Carneades has been (or is being) funded in part by a number of pr
     </item>
     
     <item>
+      <title>Carneades 4.3</title>
+      <link>https://carneades.github.io/2017/07/12/carneades-4.3/</link>
+      <pubDate>Wed, 12 Jul 2017 01:16:06 +0200</pubDate>
+      
+      <guid>https://carneades.github.io/2017/07/12/carneades-4.3/</guid>
+      <description>Version 4.3 of Carneades was released today. New in 4.3 are:
+ Argument validation, by matching arguments to schemes Argumentation scheme validation, checking for syntatic and semantic errors in a theory (knowledge-base) Native implementation of a Constraint Handling Rules (CHR) inference engine, in Go, for constructing arguments. Removes the dependency on Prolog.  The Go implementation of CHR was designed and implemented by Horst Friedrich. It has a separate GitHub project, GoCHR.</description>
+    </item>
+    
+    <item>
       <title>Carneades 4.2</title>
       <link>https://carneades.github.io/2016/01/12/carneades-4.2/</link>
       <pubDate>Tue, 12 Jan 2016 01:16:06 +0200</pubDate>
@@ -126,16 +136,6 @@ See the Carneades 3.7 User Manual for futher information about downloading, inst
       
       <guid>https://carneades.github.io/2014/09/03/new-carneades-website/</guid>
       <description>Welcome to the new website for the Carneades argumentation system. The website is now generated using the Hugo Website Engine and hosted on GitHub. Hugo provides a nice, simple way to maintain a blog. We will use this feature to make announcements. The blog is also available in the Atom syndication format here.</description>
-    </item>
-    
-    <item>
-      <title>Carneades 4.3</title>
-      <link>https://carneades.github.io/1/01/01/carneades-4.3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://carneades.github.io/1/01/01/carneades-4.3/</guid>
-      <description>Version 4.3 of Carneades was released today. New in 4.3 are:
- Argument validation, by matching arguments to schemes Argumentation scheme validation, checking for syntatic and semantic errors in a theory (knowledge-base) Native implementation of a Constraint Handling Rules (CHR) inference engine, in Go, for constructing arguments. Removes the dependency on Prolog.  The Go implementation of CHR was designed and implemented by Horst Friedrich. It has a separate GitHub project, GoCHR.</description>
     </item>
     
   </channel>
