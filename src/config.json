@@ -9,7 +9,7 @@
         "post": ":year/:month/:day/:title/",
         "fixed": ":title/"
     },
-
+    "theme": "blackburn",
     "params": {
         "Title": "Carneades",
         "Tagline": "tools for argument (re)construction, evaluation, mapping and interchange",
