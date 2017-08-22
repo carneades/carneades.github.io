@@ -4,4 +4,7 @@
   "weight": 3
 }
 
-See [http://www.tfgordon.de/publications/](http://www.tfgordon.de/publications/).
+See:
+
+- [Tom Gordon's Publications](http://www.tfgordon.de/publications/).
+- [Doug Walton's Publications](http://www.dougwalton.ca/papers.htm)
