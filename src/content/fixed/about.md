@@ -1,5 +1,5 @@
 {
-  "title": "Carneades",
+  "title": "About Carneades",
   "sidebar": true,
   "weight": 1
 }
