@@ -21,15 +21,15 @@ interest.
 The following versions of Carneades are available, in reverse
 chronological order:
 
-- [Carneades-4](https://github.com/carneades/carneades-4) The current
-  version of Carneades, based on a new version of the Carneades
-  Argument Evaluation Structures (CAES) formal model of argument. New
-  in this version of CAES is much better support for cyclic argument
-  graphs, cumulative arguments, practical reasoning, case-based
-  reasoning, and multi-criteria decision analysis. This new model both
-  generalizes and simplifies the previous CAES model. It also improves
-  its compatibility with other models of structured argument, such as
-  the Argument Interchange Format (AIF), ASPIC+ and IBIS (Issue-Based
+- [Carneades-4](https://github.com/carneades/carneades-4) (July, 2017)
+  is based on a new version of the Carneades Argument Evaluation
+  Structures (CAES) formal model of argument. New in this version of
+  CAES is much better support for cyclic argument graphs, cumulative
+  arguments, practical reasoning, case-based reasoning, and
+  multi-criteria decision analysis. This new model both generalizes
+  and simplifies the previous CAES model. It also improves its
+  compatibility with other models of structured argument, such as the
+  Argument Interchange Format (AIF), ASPIC+ and IBIS (Issue-Based
   Information Systems). Carneades 4 is implemented in
   [Go](https://golang.org/), a mainstream statically-typed, procedural
   programming language with a C-like syntax, garbage collection, good

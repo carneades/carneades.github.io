@@ -4,10 +4,6 @@
   "weight": 2
 }
 
-Carneades is being developed at [Fraunhofer
-FOKUS](http://www.fokus.fraunhofer.de), Berlin, Germany, and the
-[University of Windsor](http://www.uwindsor.ca/), in Windsor, Canada.
-
 # Current Members
 
 - [Tom Gordon](http://www.tfgordon.de)
