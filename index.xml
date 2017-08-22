@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Carneades</title>
-    <link>https://carneades.github.io/</link>
-    <description>Recent content on Carneades</description>
+    <title>Carneades Argumentation System</title>
+    <link>https://tfgordon.github.io/</link>
+    <description>Recent content on Carneades Argumentation System</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>copyright &amp;copy; 2015-2017 Thomas F. Gordon. Creative Commons Attribution-ShareAlike 4.0 International License </copyright>
     <lastBuildDate>Wed, 12 Jul 2017 01:16:06 +0200</lastBuildDate>
     
-	<atom:link href="https://carneades.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tfgordon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Carneades</title>
-      <link>https://carneades.github.io/carneades/</link>
+      <link>https://tfgordon.github.io/carneades/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://carneades.github.io/carneades/</guid>
+      <guid>https://tfgordon.github.io/carneades/</guid>
       <description>The Carneades argumentation system is series of open source research prototypes, freely available for downloading at http://carneades.github.com.
 For licensing information, see the particular release (below) of interest.
 Version History The following versions of Carneades are available, in reverse chronological order:
@@ -24,30 +26,30 @@ Version History The following versions of Carneades are available, in reverse ch
     
     <item>
       <title>Team</title>
-      <link>https://carneades.github.io/team/</link>
+      <link>https://tfgordon.github.io/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://carneades.github.io/team/</guid>
+      <guid>https://tfgordon.github.io/team/</guid>
       <description> Carneades is being developed at Fraunhofer FOKUS, Berlin, Germany, and the University of Windsor, in Windsor, Canada.
 Current Members  Tom Gordon Douglas Walton  Previous Members  Pierre Allix (2010-2015) Stefan Ballnat (2008-2011) Sebastian Kaiser (2014-2015)  Contributors  Katie Atkinson, Department of Computer Sciene, University of Liverpool Trevor Bench-Capon, Department of Computer Science, University of Liverpool Marcello Ceci, Governance, Risk and Compliance Technology Centre, University College Cork Horst Friedrich, Fraunhofer FOKUS, Berlin Matthias Grabmair, Intelligent Systems Program, University of Pittsburgh Henry Prakken, Intelligent Systems Group, Utrecht University Carsten Schmoll, Fraunhofer FOKUS, Berlin Adam Wyner, Department of Computing Science, University of Aberdeen  </description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://carneades.github.io/publications/</link>
+      <link>https://tfgordon.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://carneades.github.io/publications/</guid>
+      <guid>https://tfgordon.github.io/publications/</guid>
       <description>The publications about Carneades below are in reverse chronological order. Carneades is an evolving system; older papers describe earlier versions.
  Walton, D. N.; Tindale, C. W. &amp;amp; Gordon, T. F. (2014), &amp;lsquo;Applying Recent Argumentation Methods to Some Ancient Examples of Plausible Reasoning&amp;rsquo;, Argumentation 28(1), 85 –119. (Doi: 10.1007/s10503-013-9306-y.) Gordon, T. F. (2013). Structured Consultation with Argument Graphs. In K. Atkinson, H. Prakken &amp;amp; A. Wyner (ed.), From Knowledge Representation to Argumentation in AI, Law and Policy Making (pp.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://carneades.github.io/contact/</link>
+      <link>https://tfgordon.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://carneades.github.io/contact/</guid>
+      <guid>https://tfgordon.github.io/contact/</guid>
       <description>Prof. Thomas F. Gordon
 Fraunhofer FOKUS Kaiserin-Augusta-Allee 31
 10589 Berlin, Germany
@@ -58,10 +60,10 @@ web: http://www.tfgordon.de</description>
     
     <item>
       <title>Acknowledgements</title>
-      <link>https://carneades.github.io/acknowledgements/</link>
+      <link>https://tfgordon.github.io/acknowledgements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://carneades.github.io/acknowledgements/</guid>
+      <guid>https://tfgordon.github.io/acknowledgements/</guid>
       <description>Carneades is being developed at Fraunhofer FOKUS in Berlin.
 Development of Carneades has been (or is being) funded in part by a number of projects:
  Canadian Social Science and Humanities Research Council, 2007-2009 and 2012-2017, with Douglas Walton ESTRELLA (IST-2004-027655) – A European project to develop an open, standards-based platform for Legal Knowledge Systems. Google Summer of Code, 2008 IMPACT (IST-2009-247228) Integrated Method for Policy Making Using Argument QUALIPSO SPOCS – Building the next generation Points of Single Contact MARKOS (FP7-ICT-317743) – The Market for Open Source Software, 2012-2015.</description>
@@ -69,30 +71,30 @@ Development of Carneades has been (or is being) funded in part by a number of pr
     
     <item>
       <title>Carneades 4.3</title>
-      <link>https://carneades.github.io/2017/07/12/carneades-4.3/</link>
+      <link>https://tfgordon.github.io/2017/07/12/carneades-4.3/</link>
       <pubDate>Wed, 12 Jul 2017 01:16:06 +0200</pubDate>
       
-      <guid>https://carneades.github.io/2017/07/12/carneades-4.3/</guid>
+      <guid>https://tfgordon.github.io/2017/07/12/carneades-4.3/</guid>
       <description>Version 4.3 of Carneades was released today. New in 4.3 are:
  Argument validation, by matching arguments to schemes Argumentation scheme validation, checking for syntatic and semantic errors in a theory (knowledge-base) Native implementation of a Constraint Handling Rules (CHR) inference engine, in Go, for constructing arguments. Removes the dependency on Prolog.  The Go implementation of CHR was designed and implemented by Horst Friedrich. It has a separate GitHub project, GoCHR.</description>
     </item>
     
     <item>
       <title>Carneades 4.2</title>
-      <link>https://carneades.github.io/2016/01/12/carneades-4.2/</link>
+      <link>https://tfgordon.github.io/2016/01/12/carneades-4.2/</link>
       <pubDate>Tue, 12 Jan 2016 01:16:06 +0200</pubDate>
       
-      <guid>https://carneades.github.io/2016/01/12/carneades-4.2/</guid>
+      <guid>https://tfgordon.github.io/2016/01/12/carneades-4.2/</guid>
       <description>Version 4.2 of Carneades was released today. New in 4.2 are:
  User-definable argument evaluation functions, for deriving relative argument weights from properties of the arguments (4.1 included a few builtin argument evaluation functions.) A language, based on YAML, for representing argumentation schemes. Automatic argument construction from argumentation schemes and assumptions via an inference engine implemented using Constraint Handling Rules.  As before, you can try Carneades 4.2 online using the Carneades server without having to build or install the system yourself.</description>
     </item>
     
     <item>
       <title>ICCMA 2015 Results</title>
-      <link>https://carneades.github.io/2015/07/29/iccma-2015-results/</link>
+      <link>https://tfgordon.github.io/2015/07/29/iccma-2015-results/</link>
       <pubDate>Wed, 29 Jul 2015 13:46:23 +0200</pubDate>
       
-      <guid>https://carneades.github.io/2015/07/29/iccma-2015-results/</guid>
+      <guid>https://tfgordon.github.io/2015/07/29/iccma-2015-results/</guid>
       <description>The results of the First International Competition on Computational Models of Argument (ICCMA) are now available.
 And the winners are:
  CoQuiAAS ArgSemSAT LabSATSolver  Congratulations!
@@ -102,39 +104,39 @@ As expected, in the tracks for the intractable tasks (no pun indented), we didn&
     
     <item>
       <title>Announcing Carneades 4</title>
-      <link>https://carneades.github.io/2015/07/29/announcing-carneades-4/</link>
+      <link>https://tfgordon.github.io/2015/07/29/announcing-carneades-4/</link>
       <pubDate>Wed, 29 Jul 2015 12:16:09 +0200</pubDate>
       
-      <guid>https://carneades.github.io/2015/07/29/announcing-carneades-4/</guid>
+      <guid>https://tfgordon.github.io/2015/07/29/announcing-carneades-4/</guid>
       <description>We have begun work on version 4 of Carneades. With this version we are pursuing the following goals:
  Developing a new version of the Carneades Argument Evaluation Structures (CAES) formal model of structured argumentation, with better support for cyclic argument graphs, cumulative arguments, practical reasoning, case-based reasoning, and multi-criteria decision analysis. This new model both generalizes and simplifies the previous CAES model. It also improves its compatibility with other models of structured argument, such as the Argument Interchange Format (AIF), ASPIC+ and IBIS (Issue-Based Information Systems).</description>
     </item>
     
     <item>
       <title>Carneades 3.7</title>
-      <link>https://carneades.github.io/2015/02/24/carneades-3.7/</link>
+      <link>https://tfgordon.github.io/2015/02/24/carneades-3.7/</link>
       <pubDate>Tue, 24 Feb 2015 15:22:50 +0100</pubDate>
       
-      <guid>https://carneades.github.io/2015/02/24/carneades-3.7/</guid>
+      <guid>https://tfgordon.github.io/2015/02/24/carneades-3.7/</guid>
       <description>Carneades 3.7 is now available for downloading. This version of Carneades is a web application, with a three-tiered architecture. The web client of this version has been completing rewritten to make use of modern JavaScript libraries for interactive web applications. The user interface is designed to be usable on all devices, including smart phones and tablets, as well as desktop computers.
 See the Carneades 3.7 User Manual for futher information about downloading, installing and using the system.</description>
     </item>
     
     <item>
       <title>license</title>
-      <link>https://carneades.github.io/license/</link>
+      <link>https://tfgordon.github.io/license/</link>
       <pubDate>Tue, 20 Jan 2015 10:56:00 +0100</pubDate>
       
-      <guid>https://carneades.github.io/license/</guid>
+      <guid>https://tfgordon.github.io/license/</guid>
       <description>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</description>
     </item>
     
     <item>
       <title>New Carneades Website</title>
-      <link>https://carneades.github.io/2014/09/03/new-carneades-website/</link>
+      <link>https://tfgordon.github.io/2014/09/03/new-carneades-website/</link>
       <pubDate>Wed, 03 Sep 2014 17:56:13 +0200</pubDate>
       
-      <guid>https://carneades.github.io/2014/09/03/new-carneades-website/</guid>
+      <guid>https://tfgordon.github.io/2014/09/03/new-carneades-website/</guid>
       <description>Welcome to the new website for the Carneades argumentation system. The website is now generated using the Hugo Website Engine and hosted on GitHub. Hugo provides a nice, simple way to maintain a blog. We will use this feature to make announcements. The blog is also available in the Atom syndication format here.</description>
     </item>
     
