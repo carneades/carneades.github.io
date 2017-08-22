@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fixeds on Carneades Argumentation System</title>
-    <link>https://tfgordon.github.io/fixed/</link>
+    <link>https://carneades.github.io/fixed/</link>
     <description>Recent content in Fixeds on Carneades Argumentation System</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>copyright &amp;copy; 2015-2017 Thomas F. Gordon. Creative Commons Attribution-ShareAlike 4.0 International License </copyright>
     <lastBuildDate>Tue, 20 Jan 2015 10:56:00 +0100</lastBuildDate>
     
-	<atom:link href="https://tfgordon.github.io/fixed/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://carneades.github.io/fixed/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Carneades</title>
-      <link>https://tfgordon.github.io/carneades/</link>
+      <link>https://carneades.github.io/carneades/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tfgordon.github.io/carneades/</guid>
+      <guid>https://carneades.github.io/carneades/</guid>
       <description>The Carneades argumentation system is series of open source research prototypes, freely available for downloading at http://carneades.github.com.
 For licensing information, see the particular release (below) of interest.
 Version History The following versions of Carneades are available, in reverse chronological order:
@@ -26,30 +26,30 @@ Version History The following versions of Carneades are available, in reverse ch
     
     <item>
       <title>Team</title>
-      <link>https://tfgordon.github.io/team/</link>
+      <link>https://carneades.github.io/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tfgordon.github.io/team/</guid>
+      <guid>https://carneades.github.io/team/</guid>
       <description> Carneades is being developed at Fraunhofer FOKUS, Berlin, Germany, and the University of Windsor, in Windsor, Canada.
 Current Members  Tom Gordon Douglas Walton  Previous Members  Pierre Allix (2010-2015) Stefan Ballnat (2008-2011) Sebastian Kaiser (2014-2015)  Contributors  Katie Atkinson, Department of Computer Sciene, University of Liverpool Trevor Bench-Capon, Department of Computer Science, University of Liverpool Marcello Ceci, Governance, Risk and Compliance Technology Centre, University College Cork Horst Friedrich, Fraunhofer FOKUS, Berlin Matthias Grabmair, Intelligent Systems Program, University of Pittsburgh Henry Prakken, Intelligent Systems Group, Utrecht University Carsten Schmoll, Fraunhofer FOKUS, Berlin Adam Wyner, Department of Computing Science, University of Aberdeen  </description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://tfgordon.github.io/publications/</link>
+      <link>https://carneades.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tfgordon.github.io/publications/</guid>
+      <guid>https://carneades.github.io/publications/</guid>
       <description>The publications about Carneades below are in reverse chronological order. Carneades is an evolving system; older papers describe earlier versions.
  Walton, D. N.; Tindale, C. W. &amp;amp; Gordon, T. F. (2014), &amp;lsquo;Applying Recent Argumentation Methods to Some Ancient Examples of Plausible Reasoning&amp;rsquo;, Argumentation 28(1), 85 –119. (Doi: 10.1007/s10503-013-9306-y.) Gordon, T. F. (2013). Structured Consultation with Argument Graphs. In K. Atkinson, H. Prakken &amp;amp; A. Wyner (ed.), From Knowledge Representation to Argumentation in AI, Law and Policy Making (pp.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://tfgordon.github.io/contact/</link>
+      <link>https://carneades.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tfgordon.github.io/contact/</guid>
+      <guid>https://carneades.github.io/contact/</guid>
       <description>Prof. Thomas F. Gordon
 Fraunhofer FOKUS Kaiserin-Augusta-Allee 31
 10589 Berlin, Germany
@@ -60,10 +60,10 @@ web: http://www.tfgordon.de</description>
     
     <item>
       <title>Acknowledgements</title>
-      <link>https://tfgordon.github.io/acknowledgements/</link>
+      <link>https://carneades.github.io/acknowledgements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tfgordon.github.io/acknowledgements/</guid>
+      <guid>https://carneades.github.io/acknowledgements/</guid>
       <description>Carneades is being developed at Fraunhofer FOKUS in Berlin.
 Development of Carneades has been (or is being) funded in part by a number of projects:
  Canadian Social Science and Humanities Research Council, 2007-2009 and 2012-2017, with Douglas Walton ESTRELLA (IST-2004-027655) – A European project to develop an open, standards-based platform for Legal Knowledge Systems. Google Summer of Code, 2008 IMPACT (IST-2009-247228) Integrated Method for Policy Making Using Argument QUALIPSO SPOCS – Building the next generation Points of Single Contact MARKOS (FP7-ICT-317743) – The Market for Open Source Software, 2012-2015.</description>
@@ -71,10 +71,10 @@ Development of Carneades has been (or is being) funded in part by a number of pr
     
     <item>
       <title>license</title>
-      <link>https://tfgordon.github.io/license/</link>
+      <link>https://carneades.github.io/license/</link>
       <pubDate>Tue, 20 Jan 2015 10:56:00 +0100</pubDate>
       
-      <guid>https://tfgordon.github.io/license/</guid>
+      <guid>https://carneades.github.io/license/</guid>
       <description>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</description>
     </item>
     

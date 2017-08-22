@@ -46,35 +46,35 @@ paginate = 10
     weight = 2
     identifier = "about"
     url = "/about/"
-    url = "/about/"
   [[menu.main]]
     name = "Acknowledgements"
     pre = "<i class='fa fa-file fa-fw'></i>"
-    weight = 2
+    weight = 3
     identifier = "acknowledgements"
     url = "/acknowledgements/"
   [[menu.main]]
     name = "Publications"
     pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 5
+    weight = 4
     identifier = "publications"
     url = "/publications/"
   [[menu.main]]
     name = "Team"
     pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 8
+    weight = 5
     identifier = "team"
     url = "/team/"
   [[menu.main]]
     name = "License"
     pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 8
+    weight = 6
     identifier = "license"
     url = "/license/"
   [[menu.main]]
     name = "Contact"
     pre = "<i class='fa fa-phone fa-fw'></i>"
-    weight = 9
+    weight = 7
+    identifier = "contact"
     url = "/contact/"
 
 [social]

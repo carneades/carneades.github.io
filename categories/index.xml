@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Carneades Argumentation System</title>
-    <link>https://tfgordon.github.io/categories/</link>
+    <link>https://carneades.github.io/categories/</link>
     <description>Recent content in Categories on Carneades Argumentation System</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>copyright &amp;copy; 2015-2017 Thomas F. Gordon. Creative Commons Attribution-ShareAlike 4.0 International License </copyright>
     
-	<atom:link href="https://tfgordon.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://carneades.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
