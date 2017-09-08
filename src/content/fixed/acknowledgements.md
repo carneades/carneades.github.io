@@ -18,7 +18,7 @@ alphabetical order:
 - [ESTRELLA](http://cordis.europa.eu/project/rcn/79290_en.html)
   (IST-2004-027655) – A European project to develop an open,
   standards-based platform for Legal Knowledge Systems, 2006-2008.
-- Google Summer of Code, 2008
+- Google Summer of Code, 2008, with Mathias Grabmair.
 - [IMPACT](http://cordis.europa.eu/project/rcn/93720_en.html)
     (IST-2009-247228) Integrated Method for Policy Making Using
     Argument, 2010-2012.
