@@ -18,7 +18,7 @@ number of projects:
 - [IMPACT](http://cordis.europa.eu/project/rcn/93720_en.html)
     (IST-2009-247228) Integrated Method for Policy Making Using
     Argument
-- [QUALIPSO](http://cordis.europa.eu/documents/documentlibrary/101903861EN6.pdf)
+- [QUALIPSO](http://cordis.europa.eu/project/rcn/80465_en.html)
   (FP6-IST-034763) Quality Platform for Open Source Software
 - [SPOCS](http://cordis.europa.eu/project/rcn/191708_en.html)
   (CIP-238935) – Simple Procedures Online for Crossborder Services
