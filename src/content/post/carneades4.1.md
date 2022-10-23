@@ -47,10 +47,6 @@ We recommend using the free
 [yEd](https://www.yworks.com/en/products/yfiles/yed/) GraphML program
 for editing and viewing the GraphML files.
 
-You can use the
-[Carneades 4.1 Server](http://carneades.fokus.fraunhofer.de)
-without having to build or install the system yourself.
-
 The source code is available in the
 [Carneades-4 Github](https://github.com/carneades/carneades-4)
 project. The code is open source, using the
