@@ -6,5 +6,5 @@
 
 See:
 
-- [Tom Gordon's Publications](http://www.tfgordon.de/publications/).
-- [Doug Walton's Publications](http://www.dougwalton.ca/papers.htm)
+- [Tom Gordon's Publications](https://tfgordon.github.io/publications)
+- [Doug Walton's Publications](https://scholar.google.com/citations?hl=en&user=iRzoJwcAAAAJ)
